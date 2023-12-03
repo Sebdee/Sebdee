@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Sebastien and I work as a Senior Application Engineer at MathWorks since 8 years now.
+- 👋 Hi, my name is Sebastien and I work as a Senior Application Engineer at MathWorks since 11 years now.
 - 👀 I have a degree as a Telecommunication Engineer and one as a Physicist.
 - 🌱 I’m currently finishing my Master in Software Engineering for Embedded Systems at the Technische Üniversität Kaiserslautern
 
